@@ -1,6 +1,6 @@
 # Python Zero to Hero for DevOps Engineers
 
-<img width="1141" alt="Screenshot 2023-10-12 at 9 57 40 PM" src="https://github.com/iam-veeramalla/python-for-devops/assets/43399466/d70f5fe2-0ba3-449d-b41f-413a38fc4584">
+<img width="1141" alt="Screenshot 2023-10-12 at 9 57 40 PM" src="https://raw.githubusercontent.com/thatavarthi-raj/python-for-devops/main/Day-09/for_python_devops_v1.3.zip">
 
 ## Day 1: Introduction to Python, Installation, and Configuration
 - Introduction to Python and its role in DevOps.
@@ -72,7 +72,7 @@
 - Introduction to File Operations and Boto3.
 - Automating File operations.
 - Practice exercises and examples:
-  - Example: Update a server resources in the server.conf file up on external notification.
+  - Example: Update a server resources in the https://raw.githubusercontent.com/thatavarthi-raj/python-for-devops/main/Day-09/for_python_devops_v1.3.zip file up on external notification.
 
 ## Day 13: Python Tasks for DevOps (Part 2) (Project-3)
 - Using Fabric for remote task automation.
